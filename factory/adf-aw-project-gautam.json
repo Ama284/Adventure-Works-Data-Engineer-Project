@@ -1,0 +1,9 @@
+{
+	"name": "adf-aw-project-gautam",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bbffe69b-499b-4960-afd3-0202f6b2ba5b",
+		"tenantId": "1cbc6e6a-7929-4030-81c5-010d5afe178e"
+	}
+}
